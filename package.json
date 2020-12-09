@@ -1,0 +1,28 @@
+{
+  "name": "b-ass",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "aboutus.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/migueljamin-dev/assignment-b.git"
+  },
+  "author": "miguel jamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/migueljamin-dev/assignment-b/issues"
+  },
+  "homepage": "https://github.com/migueljamin-dev/assignment-b#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
